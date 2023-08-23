@@ -1,3 +1,68 @@
+/*
+   Test the best fonts to be used  
+   
+
+
+
+*/
+ 
+*{ 
+    font-family: sans-serif;
+}
 h2{ 
     color: blue;
+}   
+.nav-container{     
+    border: 1px solid red; 
+    display: flex; 
+    justify-content: space-around;
 }
+.nav-list ul{ 
+    display: flex;
+}
+.nav-list li{ 
+    list-style: none;
+}
+.nav-list li a{     
+    text-decoration: none;
+    display: block; 
+    padding: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
